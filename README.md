@@ -4,6 +4,8 @@ This project covers two topics.
 - How to get your smart contract to read a price feed from a proxy available from  https://market.api3.org/dapis
 - How to deploy an adaptor to utilize API3 dAPIs without having to refactor your code if you use another library.
 
+[Video Companion](https://www.youtube.com/watch?v=fkpFUFszA40)
+
 ### Files
 
 - `API3PriceFeed.sol` - Base contract setup to receive an API3 price feed
